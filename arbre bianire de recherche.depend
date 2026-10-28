@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1793186943 source:c:\users\u\onedrive\bureau\myprojectsgtk3\arbre bianire de recherche\main.cpp
+	<iostream>
+	<chrono>
+	<vector>
+	<map>
+	<algorithm>
+	<random>
+
