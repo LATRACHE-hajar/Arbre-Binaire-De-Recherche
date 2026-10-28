@@ -114,7 +114,7 @@ int main() {
     Noeud* racine = nullptr;
 
     ///elements tries sans map
-    const int N = 10000;
+    const int N = 30000;
 
     vector<int> valeurs(N);
     for (int i = 0; i < N; i++) {
